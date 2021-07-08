@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/drive/1b2mvtP-mAWGCb6s9o0VYVQh79CjxnPVd?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b2mvtP-mAWGCb6s9o0VYVQh79CjxnPVd?usp=sharing)
 # Function Transformations
 Notebook to test and visualize function transformations.
 
