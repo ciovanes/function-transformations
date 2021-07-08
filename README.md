@@ -2,7 +2,7 @@
 # Function Transformations
 Notebook to test and visualize function transformations.
 
-> To run this you need:
+> To run this you will need:
 > - [Python 3.8](https://www.python.org/downloads/windows/ "Python 3.8")
 > - [Numpy 1.19.2 or higher](https://numpy.org/devdocs/release/1.19.2-notes.html "Numpy 1.19.2 or higher")
 > - [Matplotlib 3.3.2 or higher](https://matplotlib.org/stable/faq/troubleshooting_faq.html "Matplotlib 3.3.2 or higher")
